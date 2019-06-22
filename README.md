@@ -1,4 +1,4 @@
-# reusable-chart-component
+# Reusable-Chart-Component
 
 > A Vue.js project. Building a reusable bar chart component for Vue which will take data and display a bar chart on screen. 
 
