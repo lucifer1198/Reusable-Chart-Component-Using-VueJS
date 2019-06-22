@@ -2,8 +2,8 @@
   <div class="hello">
     <div class="container">
       <div class="row">
-        <h2 class="title">Realtime Chart with Vue and Pusher</h2>
-        <h3 class="subtitle">Expense and Income Tracker</h3>
+        <h2 class="title">Reusable Chart Component using VueJS</h2>
+        <h3 class="subtitle">A Simple Chart</h3>
         <line-chart :chart-data="datacollection"></line-chart>
       </div>
     </div>
